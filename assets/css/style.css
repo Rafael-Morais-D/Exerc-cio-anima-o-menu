@@ -57,7 +57,7 @@ body {
     top: -10px;
 }
 
-.hamburguer:Hafter {
+.hamburguer::after {
     bottom: -10px;
 }
 
