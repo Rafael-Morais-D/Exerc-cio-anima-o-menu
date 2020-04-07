@@ -100,7 +100,7 @@ input {
 }
 
 input:checked ~ label .menu {
-    box-shadow: 0 0 0 100vw rgba(200, 0, 65, 0.5);
+    box-shadow: 0 0 0 1000vw rgba(200, 0, 65, 0.5);
     background-color: rgba(200, 0, 65, 0.5);
     border-radius: 0%;
 }
